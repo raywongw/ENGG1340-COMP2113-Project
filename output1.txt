@@ -1,0 +1,1 @@
+Which character length of WORDLE do you want to play? (4-8):

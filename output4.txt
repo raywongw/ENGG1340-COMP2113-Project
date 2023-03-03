@@ -1,0 +1,35 @@
+Rules: 
+1. Guess the WORDLE of your desired length in six tries.
+
+2. Each guess must be a valid five-letter word. Hit the enter button to submit.
+
+3. After each guess, the color of the tiles will change to show how close your guess is to the word.
+
+Examples:
+Suppose the WORDLE is WRITE and the use input WHEAT.
+The output will be WHEAT
+
+Explanation: 
+The letter W exists in the WORDLE and is located in the correct position.
+Hence, it will be shown in green color.
+
+The letters E and T also exist in the WORDLE but aren't located in the correct position.
+Hence, they will be shown in yellow color.
+
+The letters H and A don't exist in the WORDLE.
+Hence, they will be shown in default color.
+
+---------------------------------------------------
+Press enter to continue...
+###########################################
+##            Upgraded Wordle            ##
+##---------------------------------------##
+##   Select from the following options   ##
+##       1. Start New Game               ##
+##       2. Load Game from save          ##
+##       3. Check Player Stats           ##
+##       4. How to Play                  ##
+##       5. Save and Quit                ##
+##                                       ##
+###########################################
+Type Your Option (1-5): 

@@ -1,0 +1,16 @@
+Error! player.save does not exist! (Ignore if you are a new player)
+Error! round.save does not exist! (ignore if you did not quit at the middle of the game)
+---------------------------------------------------
+Press enter to continue...
+###########################################
+##            Upgraded Wordle            ##
+##---------------------------------------##
+##   Select from the following options   ##
+##       1. Start New Game               ##
+##       2. Load Game from save          ##
+##       3. Check Player Stats           ##
+##       4. How to Play                  ##
+##       5. Save and Quit                ##
+##                                       ##
+###########################################
+Type Your Option (1-5): 

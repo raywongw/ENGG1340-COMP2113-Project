@@ -1,0 +1,12 @@
+###########################################
+##            Upgraded Wordle            ##
+##---------------------------------------##
+##   Select from the following options   ##
+##       1. Start New Game               ##
+##       2. Load Game from save          ##
+##       3. Check Player Stats           ##
+##       4. How to Play                  ##
+##       5. Save and Quit                ##
+##                                       ##
+###########################################
+Type Your Option (1-5): Goodbye! Now Quitting...
